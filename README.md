@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Web Developer
 ------------------------
 
-I have been learning to code for 2 years. I have base experience in c++ and Java which were my first coding languages. I moved on to Web development using HTML, CSS, JavaScript and PHP. I have also learnt Python, Kotlin.
+I have started to code as from 2 years ago. I have base experience in c++ and Java which were my first coding languages. I moved on to Web development using HTML, CSS, JavaScript and PHP. I have also learnt Python, Kotlin.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [jessemburu42@gmail.com](mailto:jessemburu42@gmail.com)
