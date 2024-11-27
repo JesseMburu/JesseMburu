@@ -28,6 +28,8 @@ src="https://img.shields.io/github/followers/JesseMburu?logo=github&style=for-th
 
 ### Badges
 
+<a href="https://app.daily.dev/jesse8"><img src="https://api.daily.dev/devcards/v2/3S3NM1DD340JcmG7fmCKw.png?type=default&r=car" width="356" alt="Jesse's Dev Card"/></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/JesseMburu"><img src="https://github-readme-stats.vercel.app/api?username=JesseMburu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JesseMburu's GitHub stats" /></a>
