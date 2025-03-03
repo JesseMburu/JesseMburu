@@ -8,7 +8,7 @@ I have started to code 2 years ago. I have base experience in c++ and Java which
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [jessemburu42@gmail.com](mailto:jessemburu42@gmail.com)
-* 🤝  I'm open to collaborating on Web Development Projects.
+* 🤝  I'm open to collaborating on Web and Mobile Application Development Projects.
 * ⚡  Aspiring to kill bugs.
 
 <a href="https://www.github.com/JesseMburu" target="_blank" rel="noreferrer"><img
